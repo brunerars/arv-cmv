@@ -1,0 +1,23 @@
+version: "3.8"
+
+services:
+  cmv-analyzer:
+    image: cmv-analyzer:latest
+    networks:
+      - network_public
+    deploy:
+      mode: replicated
+      replicas: 1
+      restart_policy:
+        condition: on-failure
+      labels:
+        - traefik.enable=true
+        - traefik.http.routers.cmv-analyzer.rule=Host(`cmv.arvsystems.cloud`)
+        - traefik.http.routers.cmv-analyzer.entrypoints=websecure
+        - traefik.http.routers.cmv-analyzer.tls.certresolver=letsencryptresolver
+        - traefik.http.services.cmv-analyzer.loadbalancer.server.port=8501
+        - traefik.http.routers.cmv-analyzer.service=cmv-analyzer
+
+networks:
+  network_public:
+    external: true
