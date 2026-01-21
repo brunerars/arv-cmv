@@ -1,0 +1,388 @@
+{
+  "projetos": [
+    {
+      "os": "3185",
+      "cliente": "FESTO",
+      "proposta": "2844/A",
+      "status_percentual": 85.71,
+      "cmv_previsto_sem_reducao": 293652.55,
+      "cmv_previsto": 276283.76,
+      "familias": [
+        {
+          "nome": "Estruturas Metálicas",
+          "cmv_previsto": 120000.00
+        },
+        {
+          "nome": "Componentes Elétricos",
+          "cmv_previsto": 80000.00
+        },
+        {
+          "nome": "Automação e Controle",
+          "cmv_previsto": 76283.76
+        }
+      ]
+    },
+    {
+      "os": "1175",
+      "cliente": "HUNTER",
+      "proposta": "2821",
+      "status_percentual": 43.88,
+      "cmv_previsto_sem_reducao": 1083869.90,
+      "cmv_previsto": 1016149.00,
+      "familias": [
+        {
+          "nome": "Estruturas Metálicas",
+          "cmv_previsto": 450000.00
+        },
+        {
+          "nome": "Componentes Hidráulicos",
+          "cmv_previsto": 300000.00
+        },
+        {
+          "nome": "Componentes Elétricos",
+          "cmv_previsto": 150000.00
+        },
+        {
+          "nome": "Automação e Controle",
+          "cmv_previsto": 116149.00
+        }
+      ]
+    },
+    {
+      "os": "1095",
+      "cliente": "SIN IMPLANTES",
+      "proposta": "2561/2",
+      "status_percentual": 42.05,
+      "cmv_previsto_sem_reducao": 1032036.46,
+      "cmv_previsto": 860795.34,
+      "familias": [
+        {
+          "nome": "Estruturas Metálicas",
+          "cmv_previsto": 380000.00
+        },
+        {
+          "nome": "Componentes Mecânicos",
+          "cmv_previsto": 250000.00
+        },
+        {
+          "nome": "Componentes Elétricos",
+          "cmv_previsto": 150795.34
+        },
+        {
+          "nome": "Automação e Controle",
+          "cmv_previsto": 80000.00
+        }
+      ]
+    },
+    {
+      "os": "1138",
+      "cliente": "UNIMIL",
+      "proposta": "SUB-TOTAL",
+      "status_percentual": 79.27,
+      "cmv_previsto_sem_reducao": 339108.08,
+      "cmv_previsto": 317924.62,
+      "familias": [
+        {
+          "nome": "Componentes Mecânicos",
+          "cmv_previsto": 180000.00
+        },
+        {
+          "nome": "Componentes Elétricos",
+          "cmv_previsto": 87924.62
+        },
+        {
+          "nome": "Automação e Controle",
+          "cmv_previsto": 50000.00
+        }
+      ]
+    },
+    {
+      "os": "1152",
+      "cliente": "UNIMIL",
+      "proposta": "SUB-TOTAL",
+      "status_percentual": 79.27,
+      "cmv_previsto_sem_reducao": 339108.08,
+      "cmv_previsto": 317924.62,
+      "familias": [
+        {
+          "nome": "Componentes Mecânicos",
+          "cmv_previsto": 180000.00
+        },
+        {
+          "nome": "Componentes Elétricos",
+          "cmv_previsto": 87924.62
+        },
+        {
+          "nome": "Automação e Controle",
+          "cmv_previsto": 50000.00
+        }
+      ]
+    },
+    {
+      "os": "1171",
+      "cliente": "DORMER",
+      "proposta": "2781",
+      "status_percentual": 70.73,
+      "cmv_previsto_sem_reducao": 257053.21,
+      "cmv_previsto": 240895.24,
+      "familias": [
+        {
+          "nome": "Estruturas Metálicas",
+          "cmv_previsto": 100000.00
+        },
+        {
+          "nome": "Componentes Mecânicos",
+          "cmv_previsto": 80000.00
+        },
+        {
+          "nome": "Componentes Elétricos",
+          "cmv_previsto": 40895.24
+        },
+        {
+          "nome": "Automação e Controle",
+          "cmv_previsto": 20000.00
+        }
+      ]
+    },
+    {
+      "os": "1159",
+      "cliente": "UNIMIL",
+      "proposta": "SUB-TOTAL",
+      "status_percentual": 100.00,
+      "cmv_previsto_sem_reducao": 117486.20,
+      "cmv_previsto": 112276.58,
+      "familias": [
+        {
+          "nome": "Componentes Mecânicos",
+          "cmv_previsto": 60000.00
+        },
+        {
+          "nome": "Componentes Elétricos",
+          "cmv_previsto": 32276.58
+        },
+        {
+          "nome": "Automação e Controle",
+          "cmv_previsto": 20000.00
+        }
+      ]
+    },
+    {
+      "os": "1160",
+      "cliente": "UNIMIL",
+      "proposta": "SUB-TOTAL",
+      "status_percentual": 100.00,
+      "cmv_previsto_sem_reducao": 117486.20,
+      "cmv_previsto": 112276.58,
+      "familias": [
+        {
+          "nome": "Componentes Mecânicos",
+          "cmv_previsto": 60000.00
+        },
+        {
+          "nome": "Componentes Elétricos",
+          "cmv_previsto": 32276.58
+        },
+        {
+          "nome": "Automação e Controle",
+          "cmv_previsto": 20000.00
+        }
+      ]
+    },
+    {
+      "os": "1161",
+      "cliente": "UNIMIL",
+      "proposta": "SUB-TOTAL",
+      "status_percentual": 100.00,
+      "cmv_previsto_sem_reducao": 117486.20,
+      "cmv_previsto": 112276.58,
+      "familias": [
+        {
+          "nome": "Componentes Mecânicos",
+          "cmv_previsto": 60000.00
+        },
+        {
+          "nome": "Componentes Elétricos",
+          "cmv_previsto": 32276.58
+        },
+        {
+          "nome": "Automação e Controle",
+          "cmv_previsto": 20000.00
+        }
+      ]
+    },
+    {
+      "os": "1162",
+      "cliente": "UNIMIL",
+      "proposta": "SUB-TOTAL",
+      "status_percentual": 100.00,
+      "cmv_previsto_sem_reducao": 117486.20,
+      "cmv_previsto": 112276.58,
+      "familias": [
+        {
+          "nome": "Componentes Mecânicos",
+          "cmv_previsto": 60000.00
+        },
+        {
+          "nome": "Componentes Elétricos",
+          "cmv_previsto": 32276.58
+        },
+        {
+          "nome": "Automação e Controle",
+          "cmv_previsto": 20000.00
+        }
+      ]
+    },
+    {
+      "os": "1065",
+      "cliente": "CUMMINS",
+      "proposta": "2432",
+      "status_percentual": 95.00,
+      "cmv_previsto_sem_reducao": 53625.65,
+      "cmv_previsto": 45982.45,
+      "familias": [
+        {
+          "nome": "Componentes Mecânicos",
+          "cmv_previsto": 25000.00
+        },
+        {
+          "nome": "Componentes Elétricos",
+          "cmv_previsto": 12982.45
+        },
+        {
+          "nome": "Automação e Controle",
+          "cmv_previsto": 8000.00
+        }
+      ]
+    },
+    {
+      "os": "1135",
+      "cliente": "SKF",
+      "proposta": "SUB-TOTAL",
+      "status_percentual": 100.00,
+      "cmv_previsto_sem_reducao": 181879.34,
+      "cmv_previsto": 149371.21,
+      "familias": [
+        {
+          "nome": "Estruturas Metálicas",
+          "cmv_previsto": 70000.00
+        },
+        {
+          "nome": "Componentes Mecânicos",
+          "cmv_previsto": 45000.00
+        },
+        {
+          "nome": "Componentes Elétricos",
+          "cmv_previsto": 24371.21
+        },
+        {
+          "nome": "Automação e Controle",
+          "cmv_previsto": 10000.00
+        }
+      ]
+    },
+    {
+      "os": "1182",
+      "cliente": "SKF",
+      "proposta": "SUB-TOTAL",
+      "status_percentual": 100.00,
+      "cmv_previsto_sem_reducao": 181879.34,
+      "cmv_previsto": 149371.21,
+      "familias": [
+        {
+          "nome": "Estruturas Metálicas",
+          "cmv_previsto": 70000.00
+        },
+        {
+          "nome": "Componentes Mecânicos",
+          "cmv_previsto": 45000.00
+        },
+        {
+          "nome": "Componentes Elétricos",
+          "cmv_previsto": 24371.21
+        },
+        {
+          "nome": "Automação e Controle",
+          "cmv_previsto": 10000.00
+        }
+      ]
+    },
+    {
+      "os": "1168",
+      "cliente": "BRAUM PHARMA",
+      "proposta": "SUB-TOTAL",
+      "status_percentual": 95.00,
+      "cmv_previsto_sem_reducao": 485227.75,
+      "cmv_previsto": 456153.50,
+      "familias": [
+        {
+          "nome": "Estruturas Metálicas",
+          "cmv_previsto": 200000.00
+        },
+        {
+          "nome": "Componentes Mecânicos",
+          "cmv_previsto": 150000.00
+        },
+        {
+          "nome": "Componentes Elétricos",
+          "cmv_previsto": 76153.50
+        },
+        {
+          "nome": "Automação e Controle",
+          "cmv_previsto": 30000.00
+        }
+      ]
+    },
+    {
+      "os": "1188",
+      "cliente": "BRAUM PHARMA",
+      "proposta": "SUB-TOTAL",
+      "status_percentual": 95.00,
+      "cmv_previsto_sem_reducao": 485227.75,
+      "cmv_previsto": 456153.50,
+      "familias": [
+        {
+          "nome": "Estruturas Metálicas",
+          "cmv_previsto": 200000.00
+        },
+        {
+          "nome": "Componentes Mecânicos",
+          "cmv_previsto": 150000.00
+        },
+        {
+          "nome": "Componentes Elétricos",
+          "cmv_previsto": 76153.50
+        },
+        {
+          "nome": "Automação e Controle",
+          "cmv_previsto": 30000.00
+        }
+      ]
+    },
+    {
+      "os": "1110",
+      "cliente": "PANASONIC",
+      "proposta": "2655",
+      "status_percentual": 93.18,
+      "cmv_previsto_sem_reducao": 647503.76,
+      "cmv_previsto": 541266.05,
+      "familias": [
+        {
+          "nome": "Estruturas Metálicas",
+          "cmv_previsto": 250000.00
+        },
+        {
+          "nome": "Componentes Mecânicos",
+          "cmv_previsto": 160000.00
+        },
+        {
+          "nome": "Componentes Elétricos",
+          "cmv_previsto": 91266.05
+        },
+        {
+          "nome": "Automação e Controle",
+          "cmv_previsto": 40000.00
+        }
+      ]
+    }
+  ]
+}

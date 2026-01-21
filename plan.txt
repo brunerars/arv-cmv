@@ -1,0 +1,4 @@
+Importar planilha resumo
+carregar os dados
+printar gráfico por família 
+filtro por OS
